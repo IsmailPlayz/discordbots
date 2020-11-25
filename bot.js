@@ -10,9 +10,9 @@ const search = require('yt-search');
 const configs = require("./configs.json");
 const timestamp = require("console-timestamp");
 var botConfigs = {
-    token: "Njg4MTAyNzA3NjcxNTk3MDkz.XnOFtg.W2TWHwpGfi0sitjkMZgZT5r9goM",
-    prefix: "!",
-    commands: [],
+    token: "YOUR SECRET TOKEN HERE",
+    prefix: "mb!",
+    commands: ["mb!help"],
     plugins: [
     {
         "id": 0,
