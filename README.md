@@ -1,4 +1,4 @@
-[![discord](https://img.shields.io/discord/730998659008823296.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NqQ8mqW)
+[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NqQ8mqW)
 
 The token is fake, use your own token if you want a working bot.
 
